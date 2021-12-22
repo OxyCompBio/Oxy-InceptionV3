@@ -1,0 +1,2519 @@
+{
+ "images": [
+  {
+   "file": "IMG_0001.JPG",
+   "max_detection_conf": 0.935,
+   "detections": [
+    {
+     "category": "2",
+     "conf": 0.935,
+     "bbox": [
+      0.001607,
+      0.0326,
+      0.1864,
+      0.9071
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.378,
+     "bbox": [
+      0.0005732,
+      0.01589,
+      0.05286,
+      0.2576
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.136,
+     "bbox": [
+      0.001216,
+      0,
+      0.3938,
+      0.9691
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0002.JPG",
+   "max_detection_conf": 0.987,
+   "detections": [
+    {
+     "category": "2",
+     "conf": 0.987,
+     "bbox": [
+      0.002613,
+      0.1995,
+      0.3158,
+      0.7491
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.691,
+     "bbox": [
+      0.6012,
+      0.8101,
+      0.3958,
+      0.1422
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.202,
+     "bbox": [
+      0.6057,
+      0.8122,
+      0.3886,
+      0.142
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0003.JPG",
+   "max_detection_conf": 0.999,
+   "detections": [
+    {
+     "category": "2",
+     "conf": 0.999,
+     "bbox": [
+      0.005447,
+      0.003823,
+      0.3449,
+      0.9486
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0004.JPG",
+   "max_detection_conf": 0.485,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.485,
+     "bbox": [
+      0,
+      0,
+      1.0,
+      0.9702
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.102,
+     "bbox": [
+      0.1986,
+      0,
+      0.8013,
+      0.9604
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0005.JPG",
+   "max_detection_conf": 0.998,
+   "detections": [
+    {
+     "category": "2",
+     "conf": 0.998,
+     "bbox": [
+      0,
+      0.002695,
+      0.7863,
+      0.9543
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0006.JPG",
+   "max_detection_conf": 0.999,
+   "detections": [
+    {
+     "category": "2",
+     "conf": 0.999,
+     "bbox": [
+      0.3478,
+      0,
+      0.5082,
+      0.9599
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0007.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0008.JPG",
+   "max_detection_conf": 0.997,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.997,
+     "bbox": [
+      0.8568,
+      0.5943,
+      0.09784,
+      0.1143
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0009.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0010.JPG",
+   "max_detection_conf": 0.992,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.992,
+     "bbox": [
+      0,
+      0.5689,
+      0.3391,
+      0.3874
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0011.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0012.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0013.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0014.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0016.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0015.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0017.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0018.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0019.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0020.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0021.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0022.JPG",
+   "max_detection_conf": 0.276,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.276,
+     "bbox": [
+      0.8903,
+      0.7266,
+      0.1067,
+      0.115
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0023.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0024.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0025.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0026.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0027.JPG",
+   "max_detection_conf": 0.999,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.999,
+     "bbox": [
+      0.9168,
+      0.5,
+      0.06971,
+      0.1401
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0028.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0029.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0030.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0031.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0032.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0033.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0034.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0035.JPG",
+   "max_detection_conf": 0.108,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.108,
+     "bbox": [
+      0.2884,
+      0.5612,
+      0.07029,
+      0.07964
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0036.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0037.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0039.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0038.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0040.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0041.JPG",
+   "max_detection_conf": 0.196,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.196,
+     "bbox": [
+      0.9962,
+      0.5064,
+      0.003142,
+      0.07962
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.104,
+     "bbox": [
+      0.9935,
+      0.5046,
+      0.005743,
+      0.08738
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0043.JPG",
+   "max_detection_conf": 0.998,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.998,
+     "bbox": [
+      0.4057,
+      0.3076,
+      0.3625,
+      0.6516
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.119,
+     "bbox": [
+      0.4606,
+      0.5424,
+      0.3061,
+      0.4104
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0042.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0044.JPG",
+   "max_detection_conf": 0.128,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.128,
+     "bbox": [
+      0.8171,
+      0.4618,
+      0.04184,
+      0.06204
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0045.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0046.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0047.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0048.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0049.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0051.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0050.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0052.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0053.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0054.JPG",
+   "max_detection_conf": 0.293,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.293,
+     "bbox": [
+      0.8552,
+      0.683,
+      0.1413,
+      0.1639
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0056.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0055.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0057.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0058.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0060.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0059.JPG",
+   "max_detection_conf": 0.78,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.78,
+     "bbox": [
+      0.8842,
+      0.7117,
+      0.1116,
+      0.1323
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0061.JPG",
+   "max_detection_conf": 0.301,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.301,
+     "bbox": [
+      0.88,
+      0.7138,
+      0.1149,
+      0.1292
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0062.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0064.JPG",
+   "max_detection_conf": 0.114,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.114,
+     "bbox": [
+      0.2754,
+      0.5543,
+      0.05745,
+      0.07968
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0063.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0065.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0066.JPG",
+   "max_detection_conf": 0.118,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.118,
+     "bbox": [
+      0.8818,
+      0.7171,
+      0.1145,
+      0.1283
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0067.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0068.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0069.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0070.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0072.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0073.JPG",
+   "max_detection_conf": 0.31,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.31,
+     "bbox": [
+      0.5737,
+      0.3387,
+      0.1646,
+      0.12
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.254,
+     "bbox": [
+      0.877,
+      0.7197,
+      0.1183,
+      0.1249
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.137,
+     "bbox": [
+      0.6161,
+      0.3597,
+      0.1129,
+      0.09388
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0074.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0071.JPG",
+   "max_detection_conf": 0.239,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.239,
+     "bbox": [
+      0.8824,
+      0.7188,
+      0.1174,
+      0.1239
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0076.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0075.JPG",
+   "max_detection_conf": 0.503,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.503,
+     "bbox": [
+      0.8702,
+      0.7172,
+      0.1266,
+      0.1352
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0077.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0078.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0079.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0082.JPG",
+   "max_detection_conf": 0.998,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.998,
+     "bbox": [
+      0.7655,
+      0.2392,
+      0.234,
+      0.4702
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0080.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0081.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0083.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0085.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0086.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0084.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0087.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0088.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0090.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0089.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0091.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0093.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0092.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0094.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0095.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0096.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0098.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0097.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0099.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0100.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0101.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0102.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0103.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0105.JPG",
+   "max_detection_conf": 0.291,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.291,
+     "bbox": [
+      0.5825,
+      0.8605,
+      0.02648,
+      0.07595
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0104.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0106.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0107.JPG",
+   "max_detection_conf": 0.307,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.307,
+     "bbox": [
+      0.5841,
+      0.8603,
+      0.02637,
+      0.07871
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0108.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0110.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0109.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0111.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0112.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0113.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0114.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0115.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0116.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0118.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0117.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0119.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0120.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0121.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0122.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0123.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0124.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0125.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0126.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0127.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0128.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0129.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0130.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0131.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0132.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0133.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0134.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0135.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0136.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0137.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0138.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0139.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0140.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0142.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0141.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0143.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0145.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0144.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0147.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0148.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0149.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0150.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0152.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0151.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0153.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0154.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0155.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0156.JPG",
+   "max_detection_conf": 0.998,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.998,
+     "bbox": [
+      0.4931,
+      0.5594,
+      0.04184,
+      0.1639
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0157.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0158.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0146.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0159.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0160.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0161.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0162.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0163.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0164.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0165.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0166.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0167.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0168.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0169.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0170.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0171.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0172.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0173.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0174.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0175.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0177.JPG",
+   "max_detection_conf": 0.102,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.102,
+     "bbox": [
+      0.8613,
+      0.7163,
+      0.1348,
+      0.1263
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0176.JPG",
+   "max_detection_conf": 0.373,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.373,
+     "bbox": [
+      0.8689,
+      0.7181,
+      0.1287,
+      0.1246
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0178.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0179.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0181.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0180.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0182.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0183.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0184.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0185.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0186.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0187.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0188.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0190.JPG",
+   "max_detection_conf": 0.418,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.418,
+     "bbox": [
+      0.2726,
+      0.5486,
+      0.06313,
+      0.08241
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0189.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0191.JPG",
+   "max_detection_conf": 0.156,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.156,
+     "bbox": [
+      0.9358,
+      0.6451,
+      0.0376,
+      0.05217
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0192.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0194.JPG",
+   "max_detection_conf": 0.145,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.145,
+     "bbox": [
+      0.8673,
+      0.7066,
+      0.1293,
+      0.1363
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0193.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0196.JPG",
+   "max_detection_conf": 0.345,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.345,
+     "bbox": [
+      0.2729,
+      0.5552,
+      0.05782,
+      0.07515
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0197.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0198.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0195.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0199.JPG",
+   "max_detection_conf": 0.171,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.171,
+     "bbox": [
+      0.277,
+      0.5564,
+      0.05837,
+      0.07397
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0200.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0201.JPG",
+   "max_detection_conf": 0.936,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.936,
+     "bbox": [
+      0.8897,
+      0.7112,
+      0.1097,
+      0.1245
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0202.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0203.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0204.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0205.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0207.JPG",
+   "max_detection_conf": 0.139,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.139,
+     "bbox": [
+      0.9343,
+      0.6421,
+      0.03804,
+      0.05061
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0206.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0208.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0209.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0210.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0211.JPG",
+   "max_detection_conf": 0.199,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.199,
+     "bbox": [
+      0.2731,
+      0.5494,
+      0.05456,
+      0.07986
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0212.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0213.JPG",
+   "max_detection_conf": 0.142,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.142,
+     "bbox": [
+      0.9346,
+      0.643,
+      0.03668,
+      0.05261
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0214.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0215.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0216.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0217.JPG",
+   "max_detection_conf": 0.198,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.198,
+     "bbox": [
+      0.934,
+      0.6398,
+      0.03982,
+      0.05583
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0219.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0218.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0220.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0221.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0223.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0222.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0224.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0225.JPG",
+   "max_detection_conf": 0.829,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.829,
+     "bbox": [
+      0.2737,
+      0.5555,
+      0.06888,
+      0.07662
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0226.JPG",
+   "max_detection_conf": 0.905,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.905,
+     "bbox": [
+      0.8718,
+      0.7117,
+      0.1266,
+      0.1298
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.205,
+     "bbox": [
+      0.9346,
+      0.643,
+      0.03847,
+      0.05283
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0227.JPG",
+   "max_detection_conf": 0.221,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.221,
+     "bbox": [
+      0.8715,
+      0.7129,
+      0.1259,
+      0.1276
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0228.JPG",
+   "max_detection_conf": 0.259,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.259,
+     "bbox": [
+      0.9346,
+      0.6486,
+      0.03733,
+      0.04894
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.13,
+     "bbox": [
+      0.8801,
+      0.7111,
+      0.1172,
+      0.1336
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0229.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0230.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0231.JPG",
+   "max_detection_conf": 0.607,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.607,
+     "bbox": [
+      0.9358,
+      0.6424,
+      0.03813,
+      0.046
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0232.JPG",
+   "max_detection_conf": 0.11,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.11,
+     "bbox": [
+      0.8801,
+      0.7187,
+      0.1167,
+      0.1266
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0233.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0234.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0235.JPG",
+   "max_detection_conf": 0.532,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.532,
+     "bbox": [
+      0.8283,
+      0.721,
+      0.1668,
+      0.1212
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.171,
+     "bbox": [
+      0.8982,
+      0.7214,
+      0.1004,
+      0.1218
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.141,
+     "bbox": [
+      0.6021,
+      0.3259,
+      0.1404,
+      0.1341
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0236.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0237.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0238.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0239.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0240.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0241.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0242.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0243.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0244.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0246.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0245.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0247.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0248.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0249.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0250.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0251.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0252.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0254.JPG",
+   "max_detection_conf": 0.993,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.993,
+     "bbox": [
+      0.6765,
+      0.3906,
+      0.3226,
+      0.4572
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.28,
+     "bbox": [
+      0.7953,
+      0.5083,
+      0.2042,
+      0.2373
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0255.JPG",
+   "max_detection_conf": 0.313,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.313,
+     "bbox": [
+      0.9191,
+      0.7142,
+      0.07928,
+      0.1337
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.243,
+     "bbox": [
+      0.8712,
+      0.7048,
+      0.128,
+      0.1392
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0253.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0256.JPG",
+   "max_detection_conf": 0.801,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.801,
+     "bbox": [
+      0.9166,
+      0.7204,
+      0.08185,
+      0.1316
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.233,
+     "bbox": [
+      0.8797,
+      0.7117,
+      0.1172,
+      0.1494
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0257.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0259.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0260.JPG",
+   "max_detection_conf": 0.66,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.66,
+     "bbox": [
+      0.9238,
+      0.7233,
+      0.07421,
+      0.1231
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.22,
+     "bbox": [
+      0.88,
+      0.7207,
+      0.1153,
+      0.1345
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0258.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0261.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0262.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0263.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0265.JPG",
+   "max_detection_conf": 0.994,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.994,
+     "bbox": [
+      0.4457,
+      0.4193,
+      0.1408,
+      0.1049
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0264.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0266.JPG",
+   "max_detection_conf": 0.194,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.194,
+     "bbox": [
+      0.8947,
+      0.7258,
+      0.1013,
+      0.1138
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.136,
+     "bbox": [
+      0.9262,
+      0.7283,
+      0.07256,
+      0.1008
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0267.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0268.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0270.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0269.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0272.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0271.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0273.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0274.JPG",
+   "max_detection_conf": 0.983,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.983,
+     "bbox": [
+      0.8699,
+      0.3761,
+      0.07832,
+      0.08564
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.171,
+     "bbox": [
+      0.8527,
+      0.3464,
+      0.09781,
+      0.1152
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0275.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0276.JPG",
+   "max_detection_conf": 0.999,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.999,
+     "bbox": [
+      0.8724,
+      0.5992,
+      0.1237,
+      0.1545
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.308,
+     "bbox": [
+      0.8905,
+      0.7194,
+      0.1089,
+      0.1377
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.233,
+     "bbox": [
+      0.8768,
+      0.671,
+      0.1221,
+      0.1712
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0277.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0278.JPG",
+   "max_detection_conf": 0.135,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.135,
+     "bbox": [
+      0.6504,
+      0.3799,
+      0.09795,
+      0.07505
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.103,
+     "bbox": [
+      0.7098,
+      0.5012,
+      0.03334,
+      0.05288
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0279.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0280.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0282.JPG",
+   "max_detection_conf": 0.997,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.997,
+     "bbox": [
+      0.8274,
+      0.495,
+      0.1156,
+      0.1047
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0281.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0283.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0284.JPG",
+   "max_detection_conf": 0.991,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.991,
+     "bbox": [
+      0.001077,
+      0.5922,
+      0.08405,
+      0.1341
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0285.JPG",
+   "max_detection_conf": 0.999,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.999,
+     "bbox": [
+      0.3259,
+      0.5549,
+      0.09699,
+      0.1714
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0286.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0287.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0290.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0289.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0288.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0291.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0294.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0292.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0293.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0297.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0296.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0295.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0298.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0300.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0299.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0301.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0302.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0304.JPG",
+   "max_detection_conf": 0.997,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.997,
+     "bbox": [
+      0.4033,
+      0.4602,
+      0.1017,
+      0.1028
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0305.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0306.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0303.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0308.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0307.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0309.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0310.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0311.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0312.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0313.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0314.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0315.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0316.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0317.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0318.JPG",
+   "max_detection_conf": 0,
+   "detections": []
+  },
+  {
+   "file": "IMG_0320.JPG",
+   "max_detection_conf": 0.999,
+   "detections": [
+    {
+     "category": "2",
+     "conf": 0.999,
+     "bbox": [
+      0.5263,
+      0,
+      0.3905,
+      0.9519
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0319.JPG",
+   "max_detection_conf": 0.998,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.998,
+     "bbox": [
+      0.03079,
+      0.4576,
+      0.3173,
+      0.4882
+     ]
+    }
+   ]
+  },
+  {
+   "file": "IMG_0322.JPG",
+   "max_detection_conf": 0.958,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.958,
+     "bbox": [
+      0.1436,
+      0.004132,
+      0.8563,
+      0.9574
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.835,
+     "bbox": [
+      0,
+      0,
+      0.762,
+      0.961
+     ]
+    }
+   ]
+  }
+ ],
+ "detection_categories": {
+  "1": "animal",
+  "2": "person",
+  "3": "vehicle"
+ },
+ "info": {
+  "detection_completion_time": "2021-08-10 19:46:41",
+  "format_version": "1.0"
+ }
+}
