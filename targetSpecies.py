@@ -7,6 +7,7 @@ import csv
 import json
 import numpy as np
 import pandas as pd
+from PIL import Image
 # create virtual Env to install np
 
 df = pd.read_csv('/home/compbio/GDrive/UWIN_Test_Dataset/MegaSpecies.csv', dtype = str) 
@@ -26,8 +27,6 @@ allBboxStr = MCTargetSpeciesDetections.loc[:]['jsonAnimalDetection']
 width = 3840 
 height = 2160
 def convertToPixels (ann):
-    # MegaDetector: [x,y,width,eight] (normalized, origin upper-left)
-    # CCT: [x,y,width,height] (absolute, origin upper-left)
     ann = eval(ann)
     ann['bbox'][0] = ann['bbox'][0] * width
     ann['bbox'][1] = ann['bbox'][1] * height
@@ -35,7 +34,34 @@ def convertToPixels (ann):
     ann['bbox'][3] = ann['bbox'][3] * height
     return ann
 MCTargetSpeciesDetections.loc[:, 'jsonAnimalDetection']  = MCTargetSpeciesDetections['jsonAnimalDetection'].apply(convertToPixels)
-MCTargetSpeciesDetections.to_csv('finalOutput.csv')
+# MCTargetSpeciesDetections.to_csv('finalOutput.csv')
 print(MCTargetSpeciesDetections.loc[:, 'jsonAnimalDetection'])
+
+
 # loop over each row, call crop method and save output(cropped image) to cropped folder. save cropped file name as new column (croppedFilename - val is img/croppedFiles)
 # use coordinates for left, right, top, bottom
+
+# df = pd.read_csv('finalOutput.csv')
+# create new folder called croppedFilename
+
+# add new column to csv called croppedImage
+# for each row, crop image
+filename = []
+for row in MCTargetSpeciesDetections:
+    imgName = MCTargetSpeciesDetections.loc[row, 'photoName']
+    coords = MCTargetSpeciesDetections.loc[row, 'jsonAnimalDetection']
+    # open image from photoUpload
+    im = Image.open(imgName)
+    im = im.crop(coords[0], coords[1], coords[2], coords[3])
+    image_path = '/home/compbio/GDrive/croppedOutput/' + imgName + '.jpg'
+    im.save(image_path, 'JPEG')
+
+    filename.append(image_path)
+# create filename
+# pass filename value into new column
+
+
+
+MCTargetSpeciesDetections['croppedFilename'] = filename
+
+MCTargetSpeciesDetections
