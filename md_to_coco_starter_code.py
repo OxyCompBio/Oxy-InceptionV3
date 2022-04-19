@@ -20,12 +20,15 @@ from collections import defaultdict
 #from visualization import visualize_db
 #from data_management.databases import sanity_check_json_db
 
-json_file = 'WTP2_2021_02_01.json'
-output_json_file = 'WTP2_2021_02_01_coco.json'
+# json_file = 'WTP2_2021_02_01.json'
+# output_json_file = 'WTP2_2021_02_01_coco.json'
+
+json_file = 'AST1_2021_05_25.json'
+output_json_file = 'AST1_2021_05_25_coco.json'
 
 # Images sizes are required to convert between absolute and relative coordinates,
 # so we need to read the images.
-image_base_folder = './WTP2_2021_02_01'
+image_base_folder = './AST1_2021_05_25'
 
 # Only required if you want to write a database preview
 #output_dir_base = '/some/folder'
@@ -48,6 +51,7 @@ empty_category['name'] = 'empty'
 empty_category['id'] = 0
 category_name_to_category['empty'] = empty_category
 next_category_id = 1
+next_image_id = 1
 
 print('Processing .json file {}'.format(json_file))
 
@@ -64,12 +68,14 @@ categories_this_dataset = data['detection_categories']
 # time here is spent reading image sizes (which we need to do to get from 
 # absolute to relative coordinates), so worth parallelizing.
 for i_entry,entry in enumerate(tqdm(data['images'])):
-    
+    detections = entry['detections']
+    if not detections:
+        continue
     image_relative_path = entry['file']
     
     # Generate a unique ID from the path
-    image_id = image_relative_path.split('.')[0].replace(
-        '\\', '/').replace('/', '_').replace(' ', '_')
+    image_id = next_image_id
+    next_image_id += 1 
     
     im = {}
     im['id'] = image_id
@@ -82,7 +88,7 @@ for i_entry,entry in enumerate(tqdm(data['images'])):
 
     images.append(im)
     
-    detections = entry['detections']
+
     
     # detection = detections[0]
     for detection in detections:
@@ -102,12 +108,15 @@ for i_entry,entry in enumerate(tqdm(data['images'])):
             category['name'] = category_name
             category_name_to_category[category_name] = category
             next_category_id += 1
+            
         
         # Create an annotation
         ann = {}        
         ann['id'] = str(uuid.uuid1())
         ann['image_id'] = im['id']    
         ann['category_id'] = category_id
+        ann['iscrowd'] = 0
+        ann['segmentation'] = []
         
         if category_id != 0:
             ann['bbox'] = detection['bbox']
@@ -119,6 +128,7 @@ for i_entry,entry in enumerate(tqdm(data['images'])):
             ann['bbox'][3] = ann['bbox'][3] * im['height']
         else:
             assert(detection['bbox'] == [0,0,0,0])
+        ann['area'] = ann['bbox'][2] * ann['bbox'][3]
         annotations.append(ann)
         image_ids_to_annotations[im['id']].append(ann)
         
@@ -150,6 +160,7 @@ json_data['images'] = images
 json_data['annotations'] = annotations
 json_data['categories'] = categories
 json_data['info'] = info
+json_data['licenses'] = []
 json.dump(json_data, open(output_json_file, 'w'), indent=2)
 
 print('Finished writing .json file with {} images, {} annotations, and {} categories'.format(
