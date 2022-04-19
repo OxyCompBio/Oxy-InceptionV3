@@ -15,6 +15,7 @@ df = df[df.target == 'Target']
 targetSpecies = df.loc[:, ['commonName','target']]
 # use MC BQ to filter out rows with non-target species and numDetections != 1
 df = pd.read_csv('/home/compbio/GDrive/UWIN_Test_Dataset/multicity-bigquery-export.csv', dtype = str) 
+# df = pd.read_csv('~/Desktop/CompBio/Oxy-InceptionV3/2019_10_AST1.csv', dtype = str) 
 df['numAnimalDetections'] = pd.to_numeric(df['numAnimalDetections'])
 df= df[df.commonName.isin(targetSpecies.loc[:]['commonName'])]
 MCTargetSpeciesDetections = df[df['numAnimalDetections'] == 1]
@@ -52,7 +53,8 @@ for row in MCTargetSpeciesDetections:
     coords = MCTargetSpeciesDetections.loc[row, 'jsonAnimalDetection']
     # open image from photoUpload
     im = Image.open(imgName)
-    im = im.crop(coords[0], coords[1], coords[2], coords[3])
+    im = im.crop(coords[2], coords[3], coords[0], coords[1])
+    # im = im.crop(coords[0], coords[1], coords[2], coords[3])
     image_path = '/home/compbio/GDrive/croppedOutput/' + imgName + '.jpg'
     im.save(image_path, 'JPEG')
 
